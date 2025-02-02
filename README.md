@@ -81,3 +81,51 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 ![Notifications](https://github.com/user-attachments/assets/3014e55b-c3b3-4f41-a36a-8e413db6d0f4)
 
 If you'd like to review the source code in detail, please feel free to reach out to me directly. While the repository is currently private, I'm more than happy to arrange access upon request. You can also try the live demo at [this link](https://doc-sync-red.vercel.app/). Thank you for your understanding and interest in exploring DocSync further!
+
+## Installation Steps
+
+1. **Clone the Repository:**
+    ```bash
+    git clone <your-repo-url>
+    cd <your-repo-directory>
+    ```
+
+2. **Install Project Dependencies:**
+    ```bash
+    npm install
+    ```
+   
+3. **Configure Environment Variables:**
+    - Create a `.env` file in the root directory.
+    - Add the following environment variables:
+        ```dotenv
+       NEXT_PUBLIC_CLERK_FRONTEND_API=your-clerk-frontend-api
+       NEXT_PUBLIC_CLERK_API_KEY=your-clerk-api-key
+       CONVEX_API_URL=your-convex-api-url
+       LIVEBLOCKS_PUBLIC_KEY=your-liveblocks-public-key
+        ```
+
+4. ## **Start Prisma Service:**
+   - Ensure Prisma is set up and running. First, run the following command to generate Prisma Client and apply migrations:
+   ```bash
+   npx prisma generate
+   npx prisma migrate dev
+   ```
+   - You can then start the Prisma Studio to interact with your database:
+   ```bash
+   npx prisma studio
+   ```
+
+5. ## **Set Up Backend (Convex)**
+   - Run the backend locally using Convex. In a new terminal window, navigate to the project directory and run:
+   ```bash
+    npx convex dev
+    ```
+
+6. ## **Run Your Project:**
+    ```bash
+    npm start
+    ```
+    
+8. **Check if the Application is Running:**
+    - Open your browser and navigate to `http://localhost:3000`.
