@@ -105,7 +105,7 @@ If you'd like to review the source code in detail, please feel free to reach out
        LIVEBLOCKS_PUBLIC_KEY=your-liveblocks-public-key
         ```
 
-4. ## **Start Prisma Service:**
+4. **Start Prisma Service:**
    - Ensure Prisma is set up and running. First, run the following command to generate Prisma Client and apply migrations:
    ```bash
    npx prisma generate
@@ -116,13 +116,13 @@ If you'd like to review the source code in detail, please feel free to reach out
    npx prisma studio
    ```
 
-5. ## **Set Up Backend (Convex)**
+5. **Set Up Backend (Convex)**
    - Run the backend locally using Convex. In a new terminal window, navigate to the project directory and run:
    ```bash
     npx convex dev
     ```
 
-6. ## **Run Your Project:**
+6. **Run Your Project:**
     ```bash
     npm start
     ```
