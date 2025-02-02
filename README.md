@@ -1,6 +1,6 @@
 # DocSync
 
-DocSync is a powerful real-time collaborative document editor built with **Next.js 15**, **Shadcn UI**, and **Tailwind CSS**. Designed for modern remote and hybrid work environments, DocSync brings together advanced editing capabilities, seamless collaboration, and rich formatting tools—all in one intuitive platform. Built to empower teams with efficient, real-time document collaboration, DocSync invites you to explore the code, experiment with the features, and contribute to its evolution.
+DocSync is a powerful real-time collaborative document editor built with **Next.js 15**, **Shadcn UI**, and **Tailwind CSS**. Designed for modern remote and hybrid work environments, DocSync brings together advanced editing capabilities, seamless collaboration, and rich formatting tools—all in one intuitive platform. Built to empower teams with efficient, real-time document collaboration, DocSync invites you to explore the code and experiment with the features.
 
 ---
 
@@ -59,3 +59,7 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 
 - **🔗 Link Embedding:**  
   Easily insert and manage links within your text.
+
+## Sign in Page
+
+![sign in page](https://github.com/user-attachments/assets/4acecbd8-97a0-4c1c-8006-c95a1ccd3447)
