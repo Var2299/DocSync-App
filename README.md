@@ -80,13 +80,4 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 
 ![Notifications](https://github.com/user-attachments/assets/3014e55b-c3b3-4f41-a36a-8e413db6d0f4)
 
-## Team Invitations & Access Management
-
-![Team Invitations](https://github.com/user-attachments/assets/facd2dbc-78c4-4ac8-b32e-616a37603a8d)
-
-## Organization & Team Member Management
-
-![Organization Members](https://github.com/user-attachments/assets/cb6edff0-36c4-43cd-93c1-1900d441c8a2)
-
-
 If you'd like to review the source code in detail, please feel free to reach out to me directly. While the repository is currently private, I'm more than happy to arrange access upon request. You can also try the live demo at [this link](https://doc-sync-red.vercel.app/). Thank you for your understanding and interest in exploring DocSync further!
