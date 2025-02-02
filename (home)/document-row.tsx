@@ -43,15 +43,12 @@ export const DocumentRow = ({document}:DocumentRowProps)=>{
     const creationTime = new Date(document._creationTime);
     const now = new Date();
 
-    // Check the difference in hours between now and the creation time
     const hoursDifference = differenceInHours(now, creationTime);
 
-    // If less than 24 hours, show the time in "hh:mm a" format
     if (hoursDifference < 24) {
       return format(creationTime, "hh:mm a");
     }
 
-    // If more than 24 hours, show date in "MMM dd, yyyy" format
     return format(creationTime, "MMM dd, yyyy");
   })()}
          </TableCell>
