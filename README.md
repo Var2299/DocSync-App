@@ -80,7 +80,6 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 
 ![Notifications](https://github.com/user-attachments/assets/3014e55b-c3b3-4f41-a36a-8e413db6d0f4)
 
-If you'd like to review the source code in detail, please feel free to reach out to me directly. While the repository is currently private, I'm more than happy to arrange access upon request. You can also try the live demo at [this link](https://doc-sync-red.vercel.app/). Thank you for your understanding and interest in exploring DocSync further!
 
 ## Installation Steps
 
@@ -129,3 +128,5 @@ If you'd like to review the source code in detail, please feel free to reach out
     
 8. **Check if the Application is Running:**
     - Open your browser and navigate to `http://localhost:3000`.
+  
+If you'd like to review the source code in detail, please feel free to reach out to me directly. While the repository is currently private, I'm more than happy to arrange access upon request. You can also try the live demo at [this link](https://doc-sync-red.vercel.app/). Thank you for your understanding and interest in exploring DocSync further!
