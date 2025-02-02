@@ -68,10 +68,6 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 
 ![Dashboard](https://github.com/user-attachments/assets/52698da8-23d5-4503-a2f6-b5640e8187f1)
 
-## Document Editing Interface
-
-![Document Editor](https://github.com/user-attachments/assets/7cf76adf-f4ba-4c49-9a7f-589fad76b608)
-
 ## Real-Time Collaborative Editing
 
 ![Live Collaboration](https://github.com/user-attachments/assets/cc548738-7688-4fc7-845d-dc43c870a373)
@@ -91,3 +87,6 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 ## Organization & Team Member Management
 
 ![Organization Members](https://github.com/user-attachments/assets/cb6edff0-36c4-43cd-93c1-1900d441c8a2)
+
+
+If you'd like to review the source code in detail, please feel free to reach out to me directly. While the repository is currently private, I'm more than happy to arrange access upon request. Thank you for your understanding and interest in exploring DocSync further!
