@@ -82,8 +82,7 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 
 ## Seamless Document Renaming: Tap the document title to rename instantly for a seamless workflow.
 
-![rn]((home)/rnn.gif)
-
+<img src="(home)/rnn.gif" width="400" height="300">
 
 ## Technologies Used
 
