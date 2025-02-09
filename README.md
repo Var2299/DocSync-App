@@ -81,11 +81,11 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 ![Notifications](https://github.com/user-attachments/assets/3014e55b-c3b3-4f41-a36a-8e413db6d0f4)
 
 
-## Technologies & Tools Used
+## Technologies Used
 
 ### Frontend
-- React
-- Next.js
+- Next.js 15
+- React.js 19
 - Tailwind CSS
 - Radix UI
 - Tiptap
