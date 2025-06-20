@@ -9,7 +9,7 @@ Built with extensibility and real-world scale in mind, DocSync combines robust f
 ## 🚀 AI Exploration Roadmap
 
 - ✅ Prototyped content suggestions using semantic analysis  
-- 🔄 Integrate GPT-4 for smart autocompletion (Planned Q4 2024)  
+- 🔄 Integrate GPT-4 for smart autocompletion 
 - 🧠 Implement ML-based document categorization and clustering  
 
 ## Key Features
