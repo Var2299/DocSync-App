@@ -10,8 +10,6 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 - 🔄 Integrate GPT-4 for smart autocompletion (Planned Q4 2024)  
 - 🧠 Implement ML-based document categorization and clustering  
 
----
-
 ## Key Features
 
 - **📝 Rich Text Editor:**  
