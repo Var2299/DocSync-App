@@ -60,6 +60,12 @@ DocSync is a powerful real-time collaborative document editor built with **Next.
 - **🔗 Link Embedding:**  
   Easily insert and manage links within your text.
 
+## 🚀 AI Roadmap
+
+- ✅ Prototyped content suggestions using semantic analysis  
+- 🔄 Integrate GPT-4 for smart autocompletion (Planned Q4 2024)  
+- 🧠 Implement ML-based document categorization and clustering  
+
 ## User Login & Registration Page
 
 ![image](https://github.com/user-attachments/assets/6e2d4ce8-36ba-4289-b24d-8d3337501771)
